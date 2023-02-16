@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "245211049397",
+    "project_id": "nature-emoi-collection",
+    "storage_bucket": "nature-emoi-collection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245211049397:android:423053598d1680e3dfbdfc",
+        "android_client_info": {
+          "package_name": "com.example.nature_emoi_collection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245211049397-43llj1amgcqa7deq5knaqbsvu6ro4r82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnWG4eDytKhkLDhJyQrpzdtPtU80bN8Zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245211049397-43llj1amgcqa7deq5knaqbsvu6ro4r82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
